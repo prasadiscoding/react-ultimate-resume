@@ -50,8 +50,8 @@ export const UserInformations = () => {
                     classes={{
                         container: classes.name
                     }}
-                    variant="h3"
-                    component="h3"
+                    variant="h2"
+                    component="h2"
                 >
                     {data.basics?.name}
                     {afterName}
@@ -60,6 +60,7 @@ export const UserInformations = () => {
                     classes={{
                         container: classes.description
                     }}
+                    variant="h4"
                     component="h4"
                 >
                     {data.basics?.summary}

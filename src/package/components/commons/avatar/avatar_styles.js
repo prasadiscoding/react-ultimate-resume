@@ -5,8 +5,8 @@ const { center } = flex;
 export const styles = ({ palette }) => ({
     container: {},
     imageContainer: {
-        height: 110,
-        width: 110,
+        height: 170,
+        width: 170,
         minHeight: 110,
         minWidth: 110,
         borderRadius: '50%',

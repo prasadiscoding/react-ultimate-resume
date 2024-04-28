@@ -43,7 +43,7 @@ const DEFAULT_OPTIONS = {
     locale: 'en',
     customization: {
         imageHeader: {
-            url: 'https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp',
+            url: 'https://hosting-website-file.s3.ap-south-1.amazonaws.com/header.jpg',
             alt: 'Default Banner'
         }
     },

@@ -1,70 +1,51 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Prasad Karad",
+        "label": "Senior Data Engineer",
         "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "email": "prasadisworking@mail.com",
+        "phone": "+91 7977068824",
+        "website": "https://prasadkarad.000webhostapp.com/",
+        "summary": "Making sense out of 1s and 0s",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
+            "address": "",
+            "postalCode": "400071",
+            "city": "Mumbai",
+            "countryCode": "IN",
             "region": "California"
         },
         "profiles": [
             {
+                "network": "Resume",
+                "username": "",
+                "url": "https://hosting-website-file.s3.ap-south-1.amazonaws.com/Resume.pdf"
+            },
+            {
                 "network": "twitter",
-                "username": "@john"
-            },
-            {
-                "network": "Portfolio",
-                "url": "https://myawesome.portfolio.rocket.fr"
-            },
-            {
-                "network": "codingame",
-                "username": "ed3ee82f9630e99db32dec093b2ca07a0368002"
+                "username": "@"
             },
             {
                 "network": "github",
-                "username": "clementdevos"
+                "username": "prasadiscoding"
             },
             {
                 "network": "linkedin",
-                "url": "https://www.linkedin.com/in/%F0%9F%A5%B3-cl%C3%A9ment-devos-4b832526/"
+                "url": "https://www.linkedin.com/in/prasad-karad-996204160/"
+
             }
         ]
     },
     "work": [
         {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
+            "name": "LTIMindtree",
+            "position": "Senior Data Engineer",
+            "website": "https://www.ltimindtree.com/",
+            "startDate": "2021-01-01",
+            "summary": "",
+            "location": "Mumbai, Maharashtra",
             "highlights": ["Started the company"]
         }
+        
     ],
     "volunteer": [
         {
@@ -77,24 +58,16 @@
         }
     ],
     "education": [
-        {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
+            {
+                "institution": "Mumbai University",
+                "area": "Information Technology",
+                "studyType": "Bachelor's of Engineering Degree",
+                "startDate": "2016-01-01",
+                "endDate": "2020-01-01",
+                "gpa": "8.1",
+                "courses": ["DB1101 - Basic SQL"]
+            }
+
     ],
     "awards": [
         {
@@ -115,39 +88,39 @@
     ],
     "skills": [
         {
-            "name": "React",
+            "name": "Python",
             "level": "Master",
             "value": 100,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
+            "name": "SQL",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "NodeJS",
+            "name": "AWS",
             "level": "Master",
             "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
+            "name": "PowerBI",
             "level": "Master",
-            "value": 60,
+            "value": 30,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Gmail",
+            "name": "Excel",
             "level": "Master",
-            "value": 20,
+            "value": 50,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
+            "name": "Tableau",
             "level": "Master",
-            "value": 80,
+            "value": 30,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
@@ -158,11 +131,41 @@
             "fluency": "Native speaker"
         },
         {
-            "language": "Italien",
-            "value": 15,
+            "language": "Hindi",
+            "value": 100,
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Marathi",
+            "value": 100,
             "fluency": "Native speaker"
         }
     ],
+    "interests": [
+        {
+          "name": "Football",
+          "gifUrl": "https://hosting-website-file.s3.amazonaws.com/giphy.gif",
+          "keywords": [
+            "Sports",
+            "Football"
+          ]
+        },
+        {
+          "name": "Jamming",
+          "gifUrl": "https://hosting-website-file.s3.ap-south-1.amazonaws.com/giphy+(1).gif",
+          "keywords": [
+            "Arts",
+            "Jamming"
+          ]
+        },
+        {
+          "name": "Gaming",
+          "gifUrl": "https://hosting-website-file.s3.ap-south-1.amazonaws.com/giphy+(2).gif",
+          "keywords": [
+            "Gaming",
+            "Gamer"
+          ]}],
+
     "references": [
         {
             "name": "Jane Doe",
@@ -172,51 +175,51 @@
     "projects": [],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": "I am currently working as a Senior Data Engineer at LTIMindtree since the past 3.5 years"
         },
         "dreamJob": {
             "locations": [
                 {
-                    "name": "Valenciennes, France"
+                    "name": "Dubai, UAE"
                 },
                 {
-                    "name": "Lille, France"
+                    "name": "Mumbai, India"
                 },
                 {
-                    "name": "Paris,France"
+                    "name": "Bengaluru, India"
                 }
             ],
             "remoteFrequency": {
                 "frequency": "fullTime",
-                "daysPerWeek": 2
+                "daysPerWeek": 5
             }
         },
         "currentJob": {
             "issues": {
-                "z": true,
-                "boring_team": true
+                "z": false,
+                "boring_team": false
             }
         },
         "education": {
             "studiesLevel": null
         },
         "work": {
-            "contractTypes": ["permanent", "freelance", "internship"],
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "contractTypes": ["permanent"],
+            "codingReason": "I love to solve problems using code and simplify work on a daily basis",
             "searchState": "activelySearching",
-            "experienceYears": 0,
-            "codeExperienceYears": 2,
+            "experienceYears": 3.5,
+            "codeExperienceYears": 3,
             "otherExperienceYears": 3
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": "https://open.spotify.com/embed/playlist/4HIoh6RFcbFoHNcJOmudm4"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Web3, Dapps, AI"
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "url": "https://hosting-website-file.s3.ap-south-1.amazonaws.com/header.jpg",
             "alt": "Default Banner"
         },
         "cardsOrder": [
@@ -232,8 +235,10 @@
                 "type": "dreamjob",
                 "variant": 4
             },
+
+          
             {
-                "type": "projects",
+                "type": "studies",
                 "variant": 4
             },
             {
@@ -241,17 +246,14 @@
                 "variant": 4
             },
             {
-                "type": "studies",
-                "variant": 4
+                "type": "interestedBy",
+                "variant": 3
             },
             {
                 "type": "gifs",
                 "variant": 0
             },
-            {
-                "type": "interestedBy",
-                "variant": 3
-            },
+           
             {
                 "type": "language",
                 "variant": 4
@@ -269,6 +271,49 @@
             "work": {
                 "customDateFormat": "YYYY"
             }
-        }
+        },
+        "theme": {
+            "palette": {
+              "primary": {
+                "50": "#ebebeb",
+                "100": "#d6d7d7",
+                "200": "#aeafaf",
+                "300": "#858888",
+                "400": "#5d6060",
+                "500": "#343838",
+                "600": "#2a2d2d",
+                "700": "#1f2222",
+                "800": "#151616",
+                "900": "#0a0b0b",
+                "contrastDefaultColor": "light"
+              },
+              "secondary": {
+                "50": "#e6eff0",
+                "100": "#ccdfe1",
+                "200": "#99bfc4",
+                "300": "#669fa6",
+                "400": "#337f89",
+                "500": "#005f6b",
+                "600": "#004c56",
+                "700": "#003940",
+                "800": "#00262b",
+                "900": "#001315",
+                "contrastDefaultColor": "light"
+              },
+              "tertiary": {
+                "50": "#e6f4f5",
+                "100": "#cce8ec",
+                "200": "#99d1d8",
+                "300": "#66bac5",
+                "400": "#33a3b1",
+                "500": "#008c9e",
+                "600": "#00707e",
+                "700": "#00545f",
+                "800": "#00383f",
+                "900": "#001c20",
+                "contrastDefaultColor": "light"
+              }
+            }
+          }
     }
 }

@@ -49,12 +49,12 @@ function App() {
 
     return (
         <DeveloperProfile
-            mode={'edit'}
+            mode={mode}
             data={data}
             onEdit={onEdit}
             onCustomizationChanged={onCustomizationChanged}
             options={{
-                locale: 'fr',
+                locale: 'en',
                 // side: 'back',
                 showContactInfos: false,
                 apiKeys: {
